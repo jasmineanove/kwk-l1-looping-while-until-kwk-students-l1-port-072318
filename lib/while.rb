@@ -7,3 +7,9 @@ def using_while
 end
 
 
+# until andrews_texts_to_his_friend == 10
+#   puts "Do you really want to text this person?"
+#   puts "Why dont you bake some bread instead!"
+#   puts "You have #{10 - andrews_texts_to_his_friend} left!"
+#   andrews_texts_to_his_friend +=1
+# end
